@@ -1,0 +1,11 @@
+1 create a web app, using django
+2 it will have a counter and a button, when you click it will increment the counter
+
+complete this and then move on to next stage
+
+commands
+--------
+
+git
+---
+cd C:/Users/Manjit/Desktop/Random/Star_Trek/Development/my_python/django/man_take1
